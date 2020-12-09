@@ -22,7 +22,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\es6_6.js"
+            "program": "${workspaceFolder}\\es6_8.js"
         }
     ]
 }
